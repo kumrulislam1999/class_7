@@ -167,6 +167,7 @@ section>div>div>div.container {
     width:290px;
     height: 250px;
     padding: 30px 30px;
+    margin: auto;
 }
 .title_image>h3{font-size: 16px;
     font-weight: 800;
@@ -180,7 +181,9 @@ section>div>div>div.container {
     padding: 15px 0;
 }
 
-.title_image>img{margin: 15px 0;}
+.title_image>img{
+    margin: 15px 0;
+}
 
 
 
