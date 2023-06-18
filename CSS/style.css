@@ -182,8 +182,12 @@ section>div>div>div.container {
 }
 
 .title_image>img{
-    margin: 15px 0;
+    margin:auto;
+    display:inline-block;
+    ;
 }
+
+#section_three>div.flex_box>div.flex_box{align-items: center;}
 
 
 
